@@ -81,7 +81,7 @@ img {
 
 /* Banner */
 .banner {
-  background: url(../image/banner.jpg) no-repeat center center;
+  background: url(./image/banner.jpg) no-repeat center center;
   padding-top: 20%;
   padding-bottom: 20%;
   background-size: cover;
